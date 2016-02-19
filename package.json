@@ -11,8 +11,8 @@
     "npm",
     "path"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
   "dependencies": {
     "abs": "^1.2.1"
   },
