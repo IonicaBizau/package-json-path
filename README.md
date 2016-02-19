@@ -37,6 +37,10 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+ - [`r-package-json`](https://github.com/IonicaBizau/r-package-json#readme)
+
+ - [`w-package-json`](https://github.com/IonicaBizau/w-package-json#readme)
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
