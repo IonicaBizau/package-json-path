@@ -20,6 +20,17 @@ console.log(packPath("relative/path/to/module"));
 // => /home/ionicabizau/Documents/.../relative/path/to/module/package.json
 ```
 
+## Documentation
+
+### `packageJsonPath(dir)`
+Finds the absolute path to the `package.json` path.
+
+#### Params
+- **String** `dir`: The path to the directory.
+
+#### Return
+- **String** The absolute path to the `package.json` file.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
