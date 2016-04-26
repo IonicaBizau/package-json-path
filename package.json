@@ -1,6 +1,6 @@
 {
   "name": "package-json-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the package.json path in a specific directory.",
   "main": "lib/index.js",
   "scripts": {
@@ -27,5 +27,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/package-json-path/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/package-json-path#readme"
+  "homepage": "https://github.com/IonicaBizau/package-json-path#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
