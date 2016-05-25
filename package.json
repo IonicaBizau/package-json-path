@@ -1,6 +1,6 @@
 {
   "name": "package-json-path",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the package.json path in a specific directory.",
   "main": "lib/index.js",
   "scripts": {
@@ -36,6 +36,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
