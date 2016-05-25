@@ -1,5 +1,7 @@
 
-# package-json-path [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/package-json-path.svg)](https://www.npmjs.com/package/package-json-path) [![Downloads](https://img.shields.io/npm/dt/package-json-path.svg)](https://www.npmjs.com/package/package-json-path) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# package-json-path
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/package-json-path.svg)](https://www.npmjs.com/package/package-json-path) [![Downloads](https://img.shields.io/npm/dt/package-json-path.svg)](https://www.npmjs.com/package/package-json-path) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get the package.json path in a specific directory.
 
@@ -46,7 +48,9 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`np-init`](https://github.com/IonicaBizau/np-init#readme)—Easily start a npm package from scratch.
+ - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
  - [`r-package-json`](https://github.com/IonicaBizau/r-package-json#readme)—Read package.json files.
+ - [`ship-release`](https://github.com/IonicaBizau/ship-release#readme)—Publish new versions on GitHub and npm with ease.
  - [`w-package-json`](https://github.com/IonicaBizau/w-package-json#readme)—Write package.json files.
 
 ## :scroll: License
