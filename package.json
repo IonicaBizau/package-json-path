@@ -1,6 +1,6 @@
 {
   "name": "package-json-path",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Get the package.json path in a specific directory.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "npm",
     "path"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "abs": "^1.2.1"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
