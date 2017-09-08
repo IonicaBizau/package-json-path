@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Finds the absolute path to the `package.json` path.
 
 #### Params
+
 - **String** `dir`: The path to the directory.
 
 #### Return
